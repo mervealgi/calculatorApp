@@ -1,3 +1,1 @@
 # calculatorApp
-
-run executable file* 
